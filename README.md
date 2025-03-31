@@ -52,6 +52,8 @@
 Почта : sokur_75@ukr.net
 <br/>
 Telegram : @sokuralex
+<br/>
+<a href="https://www.webdota.org/index.html" target=_blank>www.webdota.org</a>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
